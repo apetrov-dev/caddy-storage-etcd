@@ -6,7 +6,7 @@ instances share them, along with the locks that stop them from all renewing
 the same certificate at once.
 
 ```
-xcaddy build --with github.com/alien43/caddy-storage-etcd
+xcaddy build --with github.com/apetrov-dev/caddy-storage-etcd
 ```
 
 ## Configuration

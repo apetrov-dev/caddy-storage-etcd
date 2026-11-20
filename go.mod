@@ -1,4 +1,4 @@
-module github.com/alien43/caddy-storage-etcd
+module github.com/apetrov-dev/caddy-storage-etcd
 
 go 1.26
 
